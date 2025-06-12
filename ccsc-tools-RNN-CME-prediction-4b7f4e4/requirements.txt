@@ -1,0 +1,9 @@
+keras==2.8.0
+matplotlib==3.5.2
+numpy==1.21.6
+pandas==1.4.4
+scikit-learn==1.0.1
+scipy==1.9.1
+tensorboard==2.8.0
+tensorflow==2.8.0
+tensorflow-gpu==2.8.0
